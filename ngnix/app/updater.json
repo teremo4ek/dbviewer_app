@@ -1,0 +1,11 @@
+{
+    "version": "0.1.5",
+    "notes": "new version app",
+    "pub_date": "2024-10-15T12:00:00Z",
+    "platforms": {
+      "windows-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa2FJclVnUkxEdGZON1I4UllKMXJObkI0QkdoWkdienpWNUN3cm9TMXQwRXp1VjEzamQzVXFmTWZtTm1XQnFDZEVXVEttaXZWcU1pbW1VVzN4bXRIaTBvd1A2ZzJncXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwNzQ5NjAxCWZpbGU6ZGJ2aWV3ZXJfMC4xLjVfeDY0X2VuLVVTLm1zaQpFL1hYNjhYbnFFNTVPTEo1d0lBNGZSTXEwSXdMSnR0a1VKaUwvT2RFbkVmYlJSSWszMUY0dklYTEFmZ3EzS1o3MjlyS2ZnTFVvMWNYeFd4NEdiMThDdz09Cg==",
+        "url": "http://localhost/release/windows/0.1.5/dbviewer_0.1.5_x64_en-US.msi"
+      }
+    }
+  }
